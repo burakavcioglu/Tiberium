@@ -11,7 +11,7 @@ Tiberium Keyword Driven Test Automation Framework | BDD ve C#/.NET
 
 •	Library: Selenium.WebDriver & Selenium.Support
 
-•	Copyright © Burak AVCI
+•	Copyright © Burak AVCI 2018
 
 •	Web & Test Automation Documents: www.burakavci.com.tr
 
