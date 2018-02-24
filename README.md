@@ -1,23 +1,24 @@
 # Tiberium
 Tiberium Keyword Driven Test Automation Framework | BDD ve C#/.NET
 
-•	Behavior Driven Development Framework
+Tiberium Framework: Temelde Free Framework olan Selenium.WebDriver kullanılmıştır. Unit ve Regresyon Testlerini hazır metotlar ile yazmanızı amaçlar.
 
-•	Written in Visual C# .NET
+* Behavior Driven Development Framework
 
-•	Operating System: Cross-Platform
+* Written in Visual C# .NET
 
-•	Underlying Framework: Selenium WebDriver
+* Operating System: Cross-Platform
 
-•	Library: Selenium.WebDriver & Selenium.Support
+* Underlying Framework: Selenium WebDriver
 
-•	Copyright © Burak AVCI 2018
+* Library: Selenium.WebDriver & Selenium.Support
 
-•	Web & Test Automation Documents: www.burakavci.com.tr
+* Copyright © Burak AVCI 2018
 
-------------------------------------------------------
+* www.burakavci.com.tr
 
-Driver Dosyalarını Yüklemek: Bilgisayarında C Dizini altında Testing klasörü oluşturun. "C:\Testing" içine "chromedriver.exe" uygulamasını atınız.
+* Version 2.0.1
 
-ChromeDriver Version: https://chromedriver.storage.googleapis.com/index.html
-Bu adresden indirebilirsiniz. (2.35 versiyon önerilir)
+* ChromeDriver Version: https://chromedriver.storage.googleapis.com/index.html
+
+* Proje yapısı oluştururken ExampleProject'i örnek alabilirsiniz.
