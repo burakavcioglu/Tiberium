@@ -17,7 +17,7 @@ Tiberium Framework: Temelde Free Framework olan Selenium.WebDriver kullanılmı�
 
 * www.burakavci.com.tr
 
-* Version 2.0.1
+* Version 2.5
 
 * ChromeDriver Version: https://chromedriver.storage.googleapis.com/index.html (C:\Drivers) içine atınız 2.35 Versiyonunu
 
