@@ -17,10 +17,10 @@ Tiberium Framework: Temelde Free Framework olan Selenium.WebDriver kullanılmı�
 
 * www.burakavci.com.tr
 
-* Version 2.5
+* Version 2.9.1
 
-* ChromeDriver Version: https://chromedriver.storage.googleapis.com/index.html (C:\Drivers) içine atınız 2.35 Versiyonunu
+* ChromeDriver Version: https://chromedriver.storage.googleapis.com/index.html (C:\Drivers) içine atınız 2.35 Versiyonunu. Local Bilgisayarda C:\Drivers klasörünü oluşturunuz.
 
 * Proje yapısı oluştururken ExampleProject'i örnek alabilirsiniz.
 
-* Test Scripti oluştururken Silk Selenium WebDriver ile önce oluşturup Test iskeletini çıkarınız.
+* Test Scripti oluştururken Silk Selenium WebDriver ile önce oluşturup Test iskeletini çıkarabilirsiniz.
