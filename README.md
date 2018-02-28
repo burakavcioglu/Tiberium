@@ -1,13 +1,15 @@
-# Tiberium
+# Tiberium Framework
 Tiberium Keyword Driven Test Automation Framework | BDD ve C#/.NET
 
-Tiberium Framework: Temelde Free Framework olan Selenium.WebDriver kullanılmıştır. Unit ve Regresyon Testlerini hazır metotlar ile yazmanızı amaçlar.
+Tiberium Framework: Unit ve Regresyon Testlerinizi Kelime Güdümlü olarak bilinen Keyword Driven Testing mantığı ile hazır metotlar yani Keyword'ler ile yazmanızı amaçlar. Behavior Driven Development yaklaşımı ile aynı olup KDT özelliği de eklenmiştir.
 
 * Behavior Driven Development Framework
 
 * Written in Visual C# .NET
 
 * Operating System: Cross-Platform
+
+* Platforms: Web Applications
 
 * Underlying Framework: Selenium WebDriver
 
@@ -23,4 +25,4 @@ Tiberium Framework: Temelde Free Framework olan Selenium.WebDriver kullanılmı�
 
 * Proje yapısı oluştururken ExampleProject'i örnek alabilirsiniz.
 
-* Test Scripti oluştururken Silk Selenium WebDriver ile önce oluşturup Test iskeletini çıkarabilirsiniz.
+* Test Scripti oluştururken Silk Selenium WebDriver ile önce Record ederek Test iskeletini çıkarabilirsiniz.
