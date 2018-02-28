@@ -21,7 +21,7 @@ Tiberium Framework: Unit ve Regresyon Testlerinizi Kelime Güdümlü olarak bili
 
 * Version 2.9.1
 
-* ChromeDriver Version: https://chromedriver.storage.googleapis.com/index.html (C:\Drivers) içine atınız 2.35 Versiyonunu. Local Bilgisayarda C:\Drivers klasörünü oluşturunuz.
+* Framework dosyası içindeki Drivers klasörünü Local Bilgisayardaki C:\ dizini içine atınız.
 
 * Proje yapısı oluştururken ExampleProject'i örnek alabilirsiniz.
 
