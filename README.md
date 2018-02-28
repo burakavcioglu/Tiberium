@@ -3,9 +3,11 @@ Tiberium Keyword Driven Test Automation Framework | BDD ve C#/.NET
 
 Tiberium Framework: Unit ve Regresyon Testlerinizi Kelime Güdümlü olarak bilinen Keyword Driven Testing mantığı ile hazır metotlar yani Keyword'ler ile yazmanızı amaçlar. Behavior Driven Development yaklaşımı ile aynı olup KDT özelliği de eklenmiştir.
 
-* Behavior Driven Development Framework
+* Keyword Driven Test Automation Framework
 
-* Written in Visual C# .NET
+* Behavior Driven Development Yaklaşımı
+
+* Written in Visual C# / .NET
 
 * Operating System: Cross-Platform
 
