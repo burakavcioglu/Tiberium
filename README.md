@@ -21,7 +21,7 @@ Tiberium Framework: Unit ve Regresyon Testlerinizi Kelime Güdümlü olarak bili
 
 * www.burakavci.com.tr
 
-* Version 2.9.1
+* Version: 3.0
 
 * Framework dosyası içindeki Drivers klasörünü Local Bilgisayardaki C:\ dizini içine atınız.
 
