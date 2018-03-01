@@ -23,7 +23,7 @@ Tiberium Framework: Unit ve Regresyon Testlerinizi Kelime Güdümlü olarak bili
 
 * www.burakavci.com.tr
 
-* Version: 3.5
+* Version: 3.6.1
 
 * Total Keywords: 21
 
@@ -31,4 +31,4 @@ Tiberium Framework: Unit ve Regresyon Testlerinizi Kelime Güdümlü olarak bili
 
 * Proje yapısı oluştururken ExampleProject'i örnek alabilirsiniz.
 
-* Test Scripti oluştururken Silk Selenium WebDriver ile önce Record ederek Test iskeletini çıkarabilirsiniz.
+* Test Scripti oluştururken Silk Selenium WebDriver ile önce Record ederek Test iskeletini çıkarabilirsiniz. Aynı zamanda Tiberium Yazılım Test Otomasyon mantığının öğrenmesini kolaylaştırır.
