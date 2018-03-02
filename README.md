@@ -23,7 +23,7 @@ Tiberium Framework: Unit ve Regresyon Testlerinizi Kelime Güdümlü olarak bili
 
 * www.burakavci.com.tr
 
-* Version: 3.6.1
+* Version: 3.7
 
 * Total Keywords: 16
 
