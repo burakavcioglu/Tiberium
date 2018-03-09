@@ -23,11 +23,11 @@ Tiberium Framework: Unit ve Regresyon Testlerinizi Kelime Güdümlü olarak bili
 
 * www.burakavci.com.tr
 
-* Version: 3.8
+* Version: 3.9.1
 
-* Total Keywords: 16
+* Total Keywords: 15
 
-* Framework dosyası içindeki Drivers klasörünü Local Bilgisayardaki C:\ dizini içine atınız.
+* Framework dosyası içindeki Drivers klasörünü Local Bilgisayardaki "C:\" dizini içine atınız.
 
 * Proje yapısı oluştururken ExampleProject'i örnek alabilirsiniz.
 
