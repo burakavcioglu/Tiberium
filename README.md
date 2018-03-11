@@ -1,4 +1,4 @@
-<img src="https://image.ibb.co/inaPFx/Tiberium_Logo.png" alt="Tiberium_Logo" border="1">
+<img src="https://image.ibb.co/hjVKXn/Tiberium.png" alt="Tiberium_Logo" border="1">
 
 # Tiberium Framework
 Tiberium Keyword Driven Test Automation Framework | BDD ve C#/.NET
@@ -27,6 +27,5 @@ Tiberium Keyword Driven Test Automation Framework | BDD ve C#/.NET
 
 * Total Keywords: 15
 
+* In the Framework file, place the Drivers folder in the C:\ directory on your Local Computer.
 * Framework dosyası içindeki Drivers klasörünü Lokal Bilgisayarınızdaki C:\ dizini içerisine atınız.
-
-* Proje yapısı oluştururken ExampleProject'i örnek alabilirsiniz.
