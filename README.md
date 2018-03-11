@@ -23,7 +23,7 @@ Tiberium Keyword Driven Test Automation Framework | BDD ve C#/.NET
 
 * www.burakavci.com.tr
 
-* Version: 3.9.2
+* Version: 3.9.1
 
 * Total Keywords: 15
 
