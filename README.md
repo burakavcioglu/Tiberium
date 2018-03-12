@@ -23,9 +23,6 @@ Tiberium Keyword Driven Test Automation Framework | BDD ve C#/.NET
 
 * www.burakavci.com.tr
 
-* Version: 3.9.4
+* Version: 3.10.0
 
 * Total Keywords: 15
-
-* In the Framework file, place the Drivers folder in the C:\ directory on your Local Computer.
-* Framework dosyası içindeki Drivers klasörünü Lokal Bilgisayarınızdaki C:\ dizini içerisine atınız.
