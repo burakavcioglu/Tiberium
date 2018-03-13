@@ -19,7 +19,7 @@ Tiberium Keyword Driven Test Automation Framework | BDD ve C#/.NET
 
 * Underlying Framework: Selenium (4 Official Packages)
 
-* Version: 3.10.0
+* Version: 3.10.2
 
 * Total Keywords: 15
 
