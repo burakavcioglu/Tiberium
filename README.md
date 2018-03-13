@@ -17,12 +17,14 @@ Tiberium Keyword Driven Test Automation Framework | BDD ve C#/.NET
 
 * Platforms: Web Applications
 
-* Underlying Framework: Selenium
-
-* Copyright © Burak AVCI 2018
-
-* www.burakavci.com.tr
+* Underlying Framework: Selenium (4 Official Packages)
 
 * Version: 3.10.0
 
 * Total Keywords: 15
+
+<img src="https://image.ibb.co/ms0K07/Selenium.png" alt="Tiberium_Logo" border="1">
+
+* Copyright © Burak AVCI 2018
+
+* www.burakavci.com.tr
