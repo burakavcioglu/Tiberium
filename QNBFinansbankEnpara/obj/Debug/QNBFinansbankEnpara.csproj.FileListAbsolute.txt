@@ -1,0 +1,82 @@
+D:\Tiberium-Selenium\GitHub\Tiberium\QNBFinansbankEnpara\bin\Debug\QNBFinansbankEnpara.dll
+D:\Tiberium-Selenium\GitHub\Tiberium\QNBFinansbankEnpara\bin\Debug\QNBFinansbankEnpara.pdb
+D:\Tiberium-Selenium\GitHub\Tiberium\QNBFinansbankEnpara\bin\Debug\TiberiumFramework.dll
+D:\Tiberium-Selenium\GitHub\Tiberium\QNBFinansbankEnpara\bin\Debug\WebDriver.dll
+D:\Tiberium-Selenium\GitHub\Tiberium\QNBFinansbankEnpara\bin\Debug\WebDriver.Support.dll
+D:\Tiberium-Selenium\GitHub\Tiberium\QNBFinansbankEnpara\bin\Debug\TiberiumFramework.pdb
+D:\Tiberium-Selenium\GitHub\Tiberium\QNBFinansbankEnpara\bin\Debug\WebDriver.xml
+D:\Tiberium-Selenium\GitHub\Tiberium\QNBFinansbankEnpara\bin\Debug\WebDriver.Support.xml
+D:\Tiberium-Selenium\GitHub\Tiberium\QNBFinansbankEnpara\obj\Debug\QNBFinansbankEnpara.csprojResolveAssemblyReference.cache
+D:\Tiberium-Selenium\GitHub\Tiberium\QNBFinansbankEnpara\obj\Debug\QNBFinansbankEnpara.dll
+D:\Tiberium-Selenium\GitHub\Tiberium\QNBFinansbankEnpara\obj\Debug\QNBFinansbankEnpara.pdb
+D:\Architectural\Tiberium-Selenium\GitHub\Tiberium\QNBFinansbankEnpara\bin\Debug\QNBFinansbankEnpara.dll
+D:\Architectural\Tiberium-Selenium\GitHub\Tiberium\QNBFinansbankEnpara\bin\Debug\QNBFinansbankEnpara.pdb
+D:\Architectural\Tiberium-Selenium\GitHub\Tiberium\QNBFinansbankEnpara\bin\Debug\TiberiumFramework.dll
+D:\Architectural\Tiberium-Selenium\GitHub\Tiberium\QNBFinansbankEnpara\bin\Debug\WebDriver.dll
+D:\Architectural\Tiberium-Selenium\GitHub\Tiberium\QNBFinansbankEnpara\bin\Debug\WebDriver.Support.dll
+D:\Architectural\Tiberium-Selenium\GitHub\Tiberium\QNBFinansbankEnpara\bin\Debug\TiberiumFramework.pdb
+D:\Architectural\Tiberium-Selenium\GitHub\Tiberium\QNBFinansbankEnpara\bin\Debug\WebDriver.xml
+D:\Architectural\Tiberium-Selenium\GitHub\Tiberium\QNBFinansbankEnpara\bin\Debug\WebDriver.Support.xml
+D:\Architectural\Tiberium-Selenium\GitHub\Tiberium\QNBFinansbankEnpara\obj\Debug\QNBFinansbankEnpara.csprojResolveAssemblyReference.cache
+D:\Architectural\Tiberium-Selenium\GitHub\Tiberium\QNBFinansbankEnpara\obj\Debug\QNBFinansbankEnpara.dll
+D:\Architectural\Tiberium-Selenium\GitHub\Tiberium\QNBFinansbankEnpara\obj\Debug\QNBFinansbankEnpara.pdb
+D:\Architectural\TiberiumFramework\GitHub\Tiberium\QNBFinansbankEnpara\bin\Debug\QNBFinansbankEnpara.dll
+D:\Architectural\TiberiumFramework\GitHub\Tiberium\QNBFinansbankEnpara\bin\Debug\QNBFinansbankEnpara.pdb
+D:\Architectural\TiberiumFramework\GitHub\Tiberium\QNBFinansbankEnpara\bin\Debug\TiberiumFramework.dll
+D:\Architectural\TiberiumFramework\GitHub\Tiberium\QNBFinansbankEnpara\bin\Debug\WebDriver.dll
+D:\Architectural\TiberiumFramework\GitHub\Tiberium\QNBFinansbankEnpara\bin\Debug\WebDriver.Support.dll
+D:\Architectural\TiberiumFramework\GitHub\Tiberium\QNBFinansbankEnpara\bin\Debug\TiberiumFramework.pdb
+D:\Architectural\TiberiumFramework\GitHub\Tiberium\QNBFinansbankEnpara\bin\Debug\WebDriver.xml
+D:\Architectural\TiberiumFramework\GitHub\Tiberium\QNBFinansbankEnpara\bin\Debug\WebDriver.Support.xml
+D:\Architectural\TiberiumFramework\GitHub\Tiberium\QNBFinansbankEnpara\obj\Debug\QNBFinansbankEnpara.csprojResolveAssemblyReference.cache
+D:\Architectural\TiberiumFramework\GitHub\Tiberium\QNBFinansbankEnpara\obj\Debug\QNBFinansbankEnpara.dll
+D:\Architectural\TiberiumFramework\GitHub\Tiberium\QNBFinansbankEnpara\obj\Debug\QNBFinansbankEnpara.pdb
+D:\Architectural\TiberiumFramework\GitHub\Tiberium\QNBFinansbankEnpara\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+D:\Architectural\TiberiumFramework\GitHub\Tiberium\QNBFinansbankEnpara\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+D:\Architectural\TiberiumFramework\GitHub\Tiberium\QNBFinansbankEnpara\bin\Debug\ThoughtWorks.Selenium.Core.dll
+D:\Architectural\TiberiumFramework\GitHub\Tiberium\QNBFinansbankEnpara\bin\Debug\ThoughtWorks.Selenium.Core.xml
+D:\Users\bavci\YandexDisk\Test ve Test Automation\Frameworks\TiberiumFramework\GitHub\Tiberium\QNBFinansbankEnpara\bin\Debug\QNBFinansbankEnpara.dll
+D:\Users\bavci\YandexDisk\Test ve Test Automation\Frameworks\TiberiumFramework\GitHub\Tiberium\QNBFinansbankEnpara\bin\Debug\QNBFinansbankEnpara.pdb
+D:\Users\bavci\YandexDisk\Test ve Test Automation\Frameworks\TiberiumFramework\GitHub\Tiberium\QNBFinansbankEnpara\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+D:\Users\bavci\YandexDisk\Test ve Test Automation\Frameworks\TiberiumFramework\GitHub\Tiberium\QNBFinansbankEnpara\bin\Debug\ThoughtWorks.Selenium.Core.dll
+D:\Users\bavci\YandexDisk\Test ve Test Automation\Frameworks\TiberiumFramework\GitHub\Tiberium\QNBFinansbankEnpara\bin\Debug\TiberiumFramework.dll
+D:\Users\bavci\YandexDisk\Test ve Test Automation\Frameworks\TiberiumFramework\GitHub\Tiberium\QNBFinansbankEnpara\bin\Debug\WebDriver.dll
+D:\Users\bavci\YandexDisk\Test ve Test Automation\Frameworks\TiberiumFramework\GitHub\Tiberium\QNBFinansbankEnpara\bin\Debug\WebDriver.Support.dll
+D:\Users\bavci\YandexDisk\Test ve Test Automation\Frameworks\TiberiumFramework\GitHub\Tiberium\QNBFinansbankEnpara\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+D:\Users\bavci\YandexDisk\Test ve Test Automation\Frameworks\TiberiumFramework\GitHub\Tiberium\QNBFinansbankEnpara\bin\Debug\ThoughtWorks.Selenium.Core.xml
+D:\Users\bavci\YandexDisk\Test ve Test Automation\Frameworks\TiberiumFramework\GitHub\Tiberium\QNBFinansbankEnpara\bin\Debug\TiberiumFramework.pdb
+D:\Users\bavci\YandexDisk\Test ve Test Automation\Frameworks\TiberiumFramework\GitHub\Tiberium\QNBFinansbankEnpara\bin\Debug\WebDriver.xml
+D:\Users\bavci\YandexDisk\Test ve Test Automation\Frameworks\TiberiumFramework\GitHub\Tiberium\QNBFinansbankEnpara\bin\Debug\WebDriver.Support.xml
+D:\Users\bavci\YandexDisk\Test ve Test Automation\Frameworks\TiberiumFramework\GitHub\Tiberium\QNBFinansbankEnpara\obj\Debug\QNBFinansbankEnpara.csprojResolveAssemblyReference.cache
+D:\Users\bavci\YandexDisk\Test ve Test Automation\Frameworks\TiberiumFramework\GitHub\Tiberium\QNBFinansbankEnpara\obj\Debug\QNBFinansbankEnpara.dll
+D:\Users\bavci\YandexDisk\Test ve Test Automation\Frameworks\TiberiumFramework\GitHub\Tiberium\QNBFinansbankEnpara\obj\Debug\QNBFinansbankEnpara.pdb
+C:\Users\ACER\YandexDisk\Test ve Test Automation\Frameworks\TiberiumFramework\GitHub\Tiberium\QNBFinansbankEnpara\bin\Debug\QNBFinansbankEnpara.dll
+C:\Users\ACER\YandexDisk\Test ve Test Automation\Frameworks\TiberiumFramework\GitHub\Tiberium\QNBFinansbankEnpara\bin\Debug\QNBFinansbankEnpara.pdb
+C:\Users\ACER\YandexDisk\Test ve Test Automation\Frameworks\TiberiumFramework\GitHub\Tiberium\QNBFinansbankEnpara\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\ACER\YandexDisk\Test ve Test Automation\Frameworks\TiberiumFramework\GitHub\Tiberium\QNBFinansbankEnpara\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\ACER\YandexDisk\Test ve Test Automation\Frameworks\TiberiumFramework\GitHub\Tiberium\QNBFinansbankEnpara\bin\Debug\TiberiumFramework.dll
+C:\Users\ACER\YandexDisk\Test ve Test Automation\Frameworks\TiberiumFramework\GitHub\Tiberium\QNBFinansbankEnpara\bin\Debug\WebDriver.dll
+C:\Users\ACER\YandexDisk\Test ve Test Automation\Frameworks\TiberiumFramework\GitHub\Tiberium\QNBFinansbankEnpara\bin\Debug\WebDriver.Support.dll
+C:\Users\ACER\YandexDisk\Test ve Test Automation\Frameworks\TiberiumFramework\GitHub\Tiberium\QNBFinansbankEnpara\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\Users\ACER\YandexDisk\Test ve Test Automation\Frameworks\TiberiumFramework\GitHub\Tiberium\QNBFinansbankEnpara\bin\Debug\ThoughtWorks.Selenium.Core.xml
+C:\Users\ACER\YandexDisk\Test ve Test Automation\Frameworks\TiberiumFramework\GitHub\Tiberium\QNBFinansbankEnpara\bin\Debug\TiberiumFramework.pdb
+C:\Users\ACER\YandexDisk\Test ve Test Automation\Frameworks\TiberiumFramework\GitHub\Tiberium\QNBFinansbankEnpara\bin\Debug\WebDriver.xml
+C:\Users\ACER\YandexDisk\Test ve Test Automation\Frameworks\TiberiumFramework\GitHub\Tiberium\QNBFinansbankEnpara\bin\Debug\WebDriver.Support.xml
+C:\Users\ACER\YandexDisk\Test ve Test Automation\Frameworks\TiberiumFramework\GitHub\Tiberium\QNBFinansbankEnpara\obj\Debug\QNBFinansbankEnpara.csprojResolveAssemblyReference.cache
+C:\Users\ACER\YandexDisk\Test ve Test Automation\Frameworks\TiberiumFramework\GitHub\Tiberium\QNBFinansbankEnpara\obj\Debug\QNBFinansbankEnpara.dll
+C:\Users\ACER\YandexDisk\Test ve Test Automation\Frameworks\TiberiumFramework\GitHub\Tiberium\QNBFinansbankEnpara\obj\Debug\QNBFinansbankEnpara.pdb
+D:\Users\bavci\Source\Repos\Tiberium\QNBFinansbankEnpara\bin\Debug\QNBFinansbankEnpara.dll
+D:\Users\bavci\Source\Repos\Tiberium\QNBFinansbankEnpara\bin\Debug\QNBFinansbankEnpara.pdb
+D:\Users\bavci\Source\Repos\Tiberium\QNBFinansbankEnpara\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+D:\Users\bavci\Source\Repos\Tiberium\QNBFinansbankEnpara\bin\Debug\ThoughtWorks.Selenium.Core.dll
+D:\Users\bavci\Source\Repos\Tiberium\QNBFinansbankEnpara\bin\Debug\TiberiumFramework.dll
+D:\Users\bavci\Source\Repos\Tiberium\QNBFinansbankEnpara\bin\Debug\WebDriver.dll
+D:\Users\bavci\Source\Repos\Tiberium\QNBFinansbankEnpara\bin\Debug\WebDriver.Support.dll
+D:\Users\bavci\Source\Repos\Tiberium\QNBFinansbankEnpara\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+D:\Users\bavci\Source\Repos\Tiberium\QNBFinansbankEnpara\bin\Debug\ThoughtWorks.Selenium.Core.xml
+D:\Users\bavci\Source\Repos\Tiberium\QNBFinansbankEnpara\bin\Debug\TiberiumFramework.pdb
+D:\Users\bavci\Source\Repos\Tiberium\QNBFinansbankEnpara\bin\Debug\WebDriver.xml
+D:\Users\bavci\Source\Repos\Tiberium\QNBFinansbankEnpara\bin\Debug\WebDriver.Support.xml
+D:\Users\bavci\Source\Repos\Tiberium\QNBFinansbankEnpara\obj\Debug\QNBFinansbankEnpara.csprojResolveAssemblyReference.cache
+D:\Users\bavci\Source\Repos\Tiberium\QNBFinansbankEnpara\obj\Debug\QNBFinansbankEnpara.dll
+D:\Users\bavci\Source\Repos\Tiberium\QNBFinansbankEnpara\obj\Debug\QNBFinansbankEnpara.pdb
