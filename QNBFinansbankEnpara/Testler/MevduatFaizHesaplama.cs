@@ -11,8 +11,6 @@ namespace QNBFinansbankEnpara
             // QNB Finansbank Enpara Mevduat Faiz Hesaplama Testi
             // Keyword Driven Testing - KDT
 
-            // Behavior Driven Development - BDD Yaklaşımı
-
             BrowserKapat();
             OpenLink(Chrome, "https://www.qnbfinansbank.enpara.com");
             Tikla("ORANLAR VE FİYATLAR", Metin);
