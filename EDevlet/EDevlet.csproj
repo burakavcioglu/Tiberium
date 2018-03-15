@@ -75,7 +75,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Testler\EDevletLogin.cs" />
     <Compile Include="Testler\SicilKayitSorgulama.cs" />
-    <Compile Include="Utility\EDevletLayer.cs" />
+    <Compile Include="Utility\EDevletDriver.cs" />
+    <Compile Include="Utility\EDevletKeywords.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

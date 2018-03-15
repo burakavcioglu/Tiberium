@@ -3,7 +3,7 @@
 namespace EDevlet
 {
     [TestClass]
-    public class SicilKayitSorgulama : EDevletLayer
+    public class SicilKayitSorgulama : EDevletKeywords
     {
         [TestMethod]
         public void AdliSicilKayitSorgulama()

@@ -3,7 +3,7 @@
 namespace EDevlet
 {
     [TestClass]
-    public class EDevletLogin : EDevletLayer
+    public class EDevletLogin : EDevletKeywords
     {
         [TestMethod]
         public void EDevletLoginTest()

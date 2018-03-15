@@ -2,8 +2,16 @@
 
 namespace EDevlet
 {
-    public class EDevletLayer : Tiberium
+    public class EDevletDriver : Tiberium
     {
+        #region Driver Katmanı
+        /* Driver Katmanı
+        
+        IWebDriver static olarak Web adıyla Tanımlanmıştır.
+
+        */
+        #endregion
+
         //Login Static
         public const string TCKimlik = "TCKN-BİLGİSİ";
         public const string Sifre = "EDEVLET-PAROLA";
@@ -18,16 +26,7 @@ namespace EDevlet
         public const string AdliSicilSorgu = "//a[starts-with(text(),\"Adli Sicil Kaydı Sor\")]";
 
 
-        #region E-Devlet Login Keyword
-        public void EDevletLogin(string browser, string TCKN, string parola)
-        {
-            BrowserKapat();
-            OpenLink(browser, "https://giris.turkiye.gov.tr/Giris/gir");
-            DegerGir("TC Kimlik Numarası", TCKN, TCKimlikID, ID);
-            DegerGir("Şifre", parola, SifreID, ID);
-            Tikla("submitButton", Name);
-        }
-        #endregion
+
 
     }
 }
