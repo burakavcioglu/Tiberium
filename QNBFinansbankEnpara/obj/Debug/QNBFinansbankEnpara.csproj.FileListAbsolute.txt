@@ -80,3 +80,6 @@ D:\Users\bavci\Source\Repos\Tiberium\QNBFinansbankEnpara\bin\Debug\WebDriver.Sup
 D:\Users\bavci\Source\Repos\Tiberium\QNBFinansbankEnpara\obj\Debug\QNBFinansbankEnpara.csprojResolveAssemblyReference.cache
 D:\Users\bavci\Source\Repos\Tiberium\QNBFinansbankEnpara\obj\Debug\QNBFinansbankEnpara.dll
 D:\Users\bavci\Source\Repos\Tiberium\QNBFinansbankEnpara\obj\Debug\QNBFinansbankEnpara.pdb
+D:\Users\bavci\Source\Repos\Tiberium\QNBFinansbankEnpara\bin\Debug\nunit.framework.dll
+D:\Users\bavci\Source\Repos\Tiberium\QNBFinansbankEnpara\bin\Debug\nunit.framework.pdb
+D:\Users\bavci\Source\Repos\Tiberium\QNBFinansbankEnpara\bin\Debug\nunit.framework.xml

@@ -135,3 +135,6 @@ D:\Users\bavci\Source\Repos\Tiberium\EDevlet\bin\Debug\WebDriver.Support.xml
 D:\Users\bavci\Source\Repos\Tiberium\EDevlet\obj\Debug\EDevlet.csprojResolveAssemblyReference.cache
 D:\Users\bavci\Source\Repos\Tiberium\EDevlet\obj\Debug\EDevlet.dll
 D:\Users\bavci\Source\Repos\Tiberium\EDevlet\obj\Debug\EDevlet.pdb
+D:\Users\bavci\Source\Repos\Tiberium\EDevlet\bin\Debug\nunit.framework.dll
+D:\Users\bavci\Source\Repos\Tiberium\EDevlet\bin\Debug\nunit.framework.pdb
+D:\Users\bavci\Source\Repos\Tiberium\EDevlet\bin\Debug\nunit.framework.xml
