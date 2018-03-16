@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<OrderedTest name="RegressionTesting" storage="d:\users\bavci\source\repos\tiberium\edevlet\regressiontestler\regressiontesting.orderedtest" id="876ac749-5c9c-43ea-8ccb-ad81ba33a4ef" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestLinks>
+    <TestLink id="d7f1b100-78b3-28a0-65dd-2c542a1badbe" name="AdliSicilKayitSorgulama" storage="..\bin\debug\edevlet.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="976a565f-f728-6c10-5d1f-bd9916207af4" name="MevduatFaizHesaplamaTest" storage="..\..\qnbfinansbankenpara\bin\debug\qnbfinansbankenpara.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="d8e42417-c323-68c6-8513-24fcf52f8ce9" name="EDevletLoginTest" storage="..\bin\debug\edevlet.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  </TestLinks>
+</OrderedTest>

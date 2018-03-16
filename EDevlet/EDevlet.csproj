@@ -79,6 +79,7 @@
     <Compile Include="Utility\EDevletKeywords.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="EDevletDiagram.cd" />
     <None Include="packages.config" />
   </ItemGroup>
   <Choose>
