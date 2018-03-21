@@ -79,8 +79,8 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="EnparaLayers\EnparaDriver.cs" />
-    <Compile Include="EnparaLayers\EnparaKeywords.cs" />
+    <Compile Include="Utility\EnparaDriver.cs" />
+    <Compile Include="Utility\EnparaKeywords.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Testler\MevduatFaizHesaplama.cs" />
   </ItemGroup>

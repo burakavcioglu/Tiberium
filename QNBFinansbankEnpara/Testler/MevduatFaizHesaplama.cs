@@ -1,4 +1,5 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿#region Test Script Template
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace QNBFinansbankEnpara
 {
@@ -8,6 +9,9 @@ namespace QNBFinansbankEnpara
         [TestMethod]
         public void MevduatFaizHesaplamaTest()
         {
+            #endregion
+
+
             // QNB Finansbank Enpara Mevduat Faiz Hesaplama Testi
             // Keyword Driven Testing - KDT
 
@@ -24,6 +28,10 @@ namespace QNBFinansbankEnpara
             Kontrol("vadeSonuBakiye", ID);
             Bekle(3); //Hızlı Geçtiği için bekletiyorum.
             TestBitti();
+
+
+#region Test Script Template
         }
     }
 }
+#endregion

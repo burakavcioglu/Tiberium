@@ -1,4 +1,5 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿#region Test Script Template
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace EDevlet
 {
@@ -8,6 +9,9 @@ namespace EDevlet
         [TestMethod]
         public void AdliSicilKayitSorgulama()
         {
+            #endregion
+
+
             //Adli Sicil Kaydı Sorgulama Testi
 
             EDevletLogin("Chrome", TCKimlik, Sifre); //E-Devlet Login Keyword: Tarayıcı, TCKN, Şifre
@@ -24,6 +28,10 @@ namespace EDevlet
             Tikla("Kayıtı Belgelerim", Metin);
             Tikla("Geri Dön", Metin);
             TestBitti();
+
+
+#region Test Script Template
         }
     }
 }
+#endregion
